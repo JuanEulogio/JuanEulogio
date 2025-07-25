@@ -58,11 +58,13 @@
 
 ###
 
-<h4 align="left">🙂‍↕️ Creating bugs since 2018<br>🌄 Hobbies: Learning Japanese, Reading, Traveling</h4>
+<p align="left">🥳 Creating bugs since 2018<br>🌄 Hobbies: Learning Japanese, Reading, Traveling, Games</p>
 
 ###
 
 <br clear="both">
+<br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juaneulogio/juaneulogio/output/pacman-contribution-graph-dark.svg">

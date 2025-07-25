@@ -58,7 +58,7 @@
 
 ###
 
-<p align="left">🥳 Creating bugs since 2018<br>🌄 Hobbies: Learning Japanese, Reading, Traveling, Games</p>
+<p align="left">🥳 Creating bugs since 2018<br>❤️ Hobbies: Learning Japanese, Weight Lifting, Music, Reading, Soccer, Traveling, Games</p>
 
 ###
 

@@ -55,6 +55,7 @@
 ###
 
 <img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF4aGoxY2E2YWdxYnB5MW9iZWhxeHhueXpkd3Y1ampwbDBya3picyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rpcNySPYIlB9SzKTi/giphy.gif"  />
+<div class="tenor-gif-embed" data-postid="25334064" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/aesthetic-coffee-gif-25334064">Aesthetic Coffee GIF</a>from <a href="https://tenor.com/search/aesthetic-gifs">Aesthetic GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 

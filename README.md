@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Some tools i've worked with over the years:</p>
+<h6 align="left">Some tools i've worked with over the years:</h6>
 
 ###
 
@@ -58,6 +58,6 @@
 
 ###
 
-<p align="left">🥳 Creating bugs since 2018<br>❤️ Hobbies: Learning Japanese, Weight Lifting, Music, Reading, Soccer, Traveling, Games</p>
+<h6 align="left">🥳 Creating bugs since 2018<br>❤️ Hobbies: Learning Japanese, Weight Lifting, Music, Reading, Soccer, Traveling, Games</h6>
 
 ###

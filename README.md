@@ -54,7 +54,7 @@
 
 ###
 
-<img align="right" height="170" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF4aGoxY2E2YWdxYnB5MW9iZWhxeHhueXpkd3Y1ampwbDBya3picyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rpcNySPYIlB9SzKTi/giphy.gif](https://tenor.com/bSsH6.gif)"  />
+<img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF4aGoxY2E2YWdxYnB5MW9iZWhxeHhueXpkd3Y1ampwbDBya3picyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rpcNySPYIlB9SzKTi/giphy.gif"  />
 
 ###
 

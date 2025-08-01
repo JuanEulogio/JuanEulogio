@@ -54,23 +54,10 @@
 
 ###
 
-<img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF4aGoxY2E2YWdxYnB5MW9iZWhxeHhueXpkd3Y1ampwbDBya3picyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rpcNySPYIlB9SzKTi/giphy.gif"  />
-<div class="tenor-gif-embed" data-postid="25334064" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/aesthetic-coffee-gif-25334064">Aesthetic Coffee GIF</a>from <a href="https://tenor.com/search/aesthetic-gifs">Aesthetic GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="170" src="https://i.pinimg.com/originals/b9/76/3d/b9763d398d581a8a2916ea94682c8c4c.gif"  />
 
 ###
 
 <p align="left">🥳 Creating bugs since 2018<br>❤️ Hobbies: Learning Japanese, Weight Lifting, Music, Reading, Soccer, Traveling, Games</p>
-
-###
-
-<br clear="both">
-<br>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juaneulogio/juaneulogio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juaneulogio/juaneulogio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juaneulogio/juaneulogio/output/pacman-contribution-graph.svg">
-</picture>
 
 ###

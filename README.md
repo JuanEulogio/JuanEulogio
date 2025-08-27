@@ -58,6 +58,6 @@
 
 ###
 
-<h6 align="left">🥳 Creating bugs since 2018<br>❤️ Hobbies: Practicing my Japanese, Weight Lifting, Music, Reading, Soccer, Traveling, Games</h6>
+<h6 align="left">❤️ Hobbies: Practicing my Japanese, Weight Lifting, Music, Reading, Soccer, Traveling, Games</h6>
 
 ###

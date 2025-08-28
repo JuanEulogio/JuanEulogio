@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Juan+Eulogio" alt="Typing SVG" />
+</p>
+
 <h2 align="left">Hi, my name is Juan Eulogio 👋!</h2>
 
-###
 
 <h6 align="left">Some tools i've worked with over the years:</h6>
 
